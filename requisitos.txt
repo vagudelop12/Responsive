@@ -1,0 +1,6 @@
+LISTADO DE REQUERIMIENTOS
+
+Llamada con el cliente del 19 de octubre de 2029
+- Corregir desborde en la pagina de inicio
+- Cambiar fondo a todo el sitio a color obscuro
+- Aumentar el tamaño de la fuente
